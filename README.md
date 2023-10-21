@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **Angular.js and Java**
+- 🌱 I’m currently learning **Angular and Java**
 
 - 💬 Ask me about **Vue.js**
 
