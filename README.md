@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **CodSoft Internship**
 
-- 🌱 I’m currently learning **Angular and Java**
+- 🌱 I’m currently learning **Angular and Spring Boot**
 
 - 💬 Ask me about **Vue.js**
 
