@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React.js and Node.js**
 
-- 💬 Ask me about **Vue.js**
+- 💬 Ask me about **React.js**
 
 - 📫 How to reach me **h.hafsaelakhdar@gmail.com**
 
