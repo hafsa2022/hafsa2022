@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **GEOLAMBERT**
 
-- 🌱 I’m currently learning **Angular and Spring Boot**
+- 🌱 I’m currently learning **React.js and Node.js**
 
 - 💬 Ask me about **Vue.js**
 
